@@ -1,0 +1,7 @@
+line 1 : This is File 1 Updated by master
+
+line 2 : File 1 updated by new Branch---------- tester
+
+line 3: Updated by---------- tester2
+
+line 4: File updated by tester1
